@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.matplotlib/
+assets/*.csv
+assets/pcos_model_comparison.png
+assets/pcos_resemblance_bands.png
+assets/hormone_user_journey_presentation.png
+reports/*.generated.md
